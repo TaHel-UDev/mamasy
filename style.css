@@ -1,3 +1,15 @@
-body *{
-  color: aquamarine;
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
+    border-right: 1px solid #E8E9EB;
+    background-color: #FFF;
+    width: 13.57%;
+    height: 100vh;
+    padding-left: 24px;
 }
