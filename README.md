@@ -1,3 +1,3 @@
 # readme file
 
-tesitng Ruslan analmaster 12
+Mamasy is free software for the marketing department
